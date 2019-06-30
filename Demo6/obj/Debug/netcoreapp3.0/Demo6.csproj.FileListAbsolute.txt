@@ -1,0 +1,12 @@
+C:\Users\LabAdmin\CS8Demos\Demo6\obj\Debug\netcoreapp3.0\Demo6.csprojAssemblyReference.cache
+C:\Users\LabAdmin\CS8Demos\Demo6\obj\Debug\netcoreapp3.0\Demo6.csproj.CoreCompileInputs.cache
+C:\Users\LabAdmin\CS8Demos\Demo6\obj\Debug\netcoreapp3.0\Demo6.AssemblyInfoInputs.cache
+C:\Users\LabAdmin\CS8Demos\Demo6\obj\Debug\netcoreapp3.0\Demo6.AssemblyInfo.cs
+C:\Users\LabAdmin\CS8Demos\Demo6\bin\Debug\netcoreapp3.0\Demo6.exe
+C:\Users\LabAdmin\CS8Demos\Demo6\bin\Debug\netcoreapp3.0\Demo6.deps.json
+C:\Users\LabAdmin\CS8Demos\Demo6\bin\Debug\netcoreapp3.0\Demo6.runtimeconfig.json
+C:\Users\LabAdmin\CS8Demos\Demo6\bin\Debug\netcoreapp3.0\Demo6.runtimeconfig.dev.json
+C:\Users\LabAdmin\CS8Demos\Demo6\bin\Debug\netcoreapp3.0\Demo6.dll
+C:\Users\LabAdmin\CS8Demos\Demo6\bin\Debug\netcoreapp3.0\Demo6.pdb
+C:\Users\LabAdmin\CS8Demos\Demo6\obj\Debug\netcoreapp3.0\Demo6.dll
+C:\Users\LabAdmin\CS8Demos\Demo6\obj\Debug\netcoreapp3.0\Demo6.pdb
